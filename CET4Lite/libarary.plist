@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2013年6月</key>
+	<real>201306</real>
+	<key>2012年6月</key>
+	<real>201206</real>
+	<key>2010年6月</key>
+	<real>201006</real>
+	<key>2009年6月</key>
+	<real>200906</real>
+	<key>2008年6月</key>
+	<integer>200806</integer>
+	<key>2007年6月</key>
+	<integer>200706</integer>
+	<key>2006年6月</key>
+	<integer>200606</integer>
+	<key>2012年12月</key>
+	<integer>201212</integer>
+	<key>2011年12月</key>
+	<integer>201112</integer>
+	<key>2010年12月</key>
+	<integer>201012</integer>
+	<key>2009年12月</key>
+	<integer>200912</integer>
+	<key>2008年12月</key>
+	<integer>200812</integer>
+	<key>2007年12月</key>
+	<integer>200712</integer>
+	<key>2006年12月</key>
+	<integer>200612</integer>
+</dict>
+</plist>
